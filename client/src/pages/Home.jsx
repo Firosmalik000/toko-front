@@ -1,7 +1,7 @@
 import React, { useContext, useState } from 'react';
 import { ProductContext } from '../contexts/ProductContext';
 
-import Product from '../components/categoryCard/Product';
+import Product from '../components/ProductCard';
 import Hero from '../components/Hero';
 import Footer from '../components/Footer';
 import Header from '../components/Header';

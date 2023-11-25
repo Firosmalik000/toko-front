@@ -8,7 +8,7 @@ import DetailUser from './pages/DetailUser';
 import Footer from './components/Footer';
 import Delivery from './pages/Checkout';
 import Checkout from './pages/Checkout';
-import Invoice from './pages/invoice/invoicepage';
+import Invoice from './pages/invoicepage';
 import ProductList from './pages/pagecoba';
 
 const App = () => {
